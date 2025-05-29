@@ -42,7 +42,7 @@ int main() {
   crypto_generichash(actual, sizeof(actual), buffer, sizeof(buffer), NULL, 0);
 
   printf("%s\n", memcmp(actual, expected, crypto_generichash_BYTES) == 0
-                     ? "You have a very trustworthy oponent 🥳"
+                     ? "You have a very trustworthy opponent 🥳"
                      : "Liar, liar, pants on fire!");
 
   return 0;
