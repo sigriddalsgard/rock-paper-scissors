@@ -119,4 +119,4 @@ This implementation uses cryptographic hash functions from the libsodium library
 
 ---
 
-<p align="center">Made by @sigriddalsgard with ❤️</p>
+<p align="center">Made by <a href="https://github.com/sigriddalsgard">@sigriddalsgard</a> with ❤️</p>
